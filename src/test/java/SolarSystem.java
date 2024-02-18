@@ -7,5 +7,9 @@ public class SolarSystem {
         FeatureSun f=new FeatureSun();
         f.moon="asd";
         f.sun="asds";
+
+        Planet1 ppp=new Planet1();
+        ppp.size="asdasdas";
+        ppp.color="gl[ps";
     }
 }
