@@ -3,5 +3,9 @@ public class SolarSystem {
         Base b=new Base();
         b.color="asd";
         b.size="adsa";
+
+        FeatureSun f=new FeatureSun();
+        f.moon="asd";
+        f.sun="asds";
     }
 }
